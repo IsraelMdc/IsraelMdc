@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsraelMdc
 - 👀 I’m interested in Tecnology , Games and Sports
-- 🌱 I’m currently learning Vision Computer and Linux 
+- 🌱 I’m currently learning Computer Vision and Linux 
 - 💞️ I’m looking to collaborate on 3d Games
 
 <!---
