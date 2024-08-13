@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IsraelMdc
 - 👀 I’m interested in Tecnology , Games and Sports
-- 🌱 I’m currently learning Computer Vision and Linux 
-- 💞️ I’m looking to collaborate on 3d Games
+- 🌱 I’m currently learning Computer Vision and Machine Learning 
 
 <!---
 IsraelMdc/IsraelMdc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
