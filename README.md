@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo através dos links abaixo: ⤵️
+  💌 Entre em contato comigo através dos botões abaixo: ⤵️
 </p>
 
 <p align="left">
