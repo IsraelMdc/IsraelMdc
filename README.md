@@ -10,12 +10,12 @@
 
   <img src = "https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt:="Python"/>
   <img src = "https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt:="Java"/>
-
-
+  <img src = "![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)" alt:="C"/>
+ 
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas : </strong> MediaPipe, OpenCV, Flask, Machine Learning, Visão Computacional
+  💼 <strong>Ferramentas : </strong> MediaPipe, OpenCV, Flask, Machine Learning, Visão Computacional, n8n, docker, 
 </p>
 
 <p align="left">
