@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá! Meu nome é <strong>Israel Magalhães do Carmo</strong>, sou <strong>Desenvolvedor</strong> com foco em tecnologia e inovação.
-   Atuo no desenvolvimento de sites, automações com n8n e sistemas internos — transformando processos em soluções digitais eficientes.
+  Atuo no desenvolvimento de sites, automações com n8n e sistemas internos — transformando processos em soluções digitais eficientes.
   Também sou pesquisador e tenho trabalho na área de Inteligência Artificial e Machine Learning, cursando Bacharelado em Sistemas de Informação no Instituto Federal do Espírito Santo - Campus Serra.
 </p>
 
@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 <p align="left">
@@ -46,7 +48,6 @@
   <img src="https://img.shields.io/badge/DeepSeek-4A90D9?style=flat&logo=deepseek&logoColor=white" alt="DeepSeek"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white" alt="MediaPipe"/>
 </p>
@@ -55,6 +56,7 @@
   📊 <strong>Análise de Dados</strong><br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=black" alt="Google Colab"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda"/>
@@ -78,7 +80,32 @@
 
 ---
 
-🗂️ <strong>Projeto em Destaque</strong>
+🏆 <strong>Reconhecimentos & Pesquisa</strong>
+
+<table>
+  <tr>
+    <td valign="top">
+      <p>
+        🥇 <strong>Prêmio — Feira Científica IFES (2025)</strong><br/>
+        Projeto de pesquisa aplicada desenvolvido no <strong>NERA e LAICSI (IFES - Campus Serra)</strong>, com financiamento da <strong>FAPES</strong>, que resultou em um sistema de escrita no ar utilizando <strong>redes neurais e visão computacional</strong> — sem sensores especializados, apenas câmeras comuns.
+        A tecnologia reconhece gestos em tempo real e os converte em comandos no computador, com aplicação em acessibilidade para pessoas com limitações motoras e auxílio a educadores em sala de aula.
+        <br/><br/>
+        📰 <a href="https://www.agazeta.com.br/es/cotidiano/alunos-do-es-desenvolvem-tecnologia-que-permite-escrever-no-ar-0925"><strong>Matéria — A Gazeta ES</strong></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white" alt="MediaPipe"/>
+        <img src="https://img.shields.io/badge/Redes%20Neurais-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="Redes Neurais"/>
+        <img src="https://img.shields.io/badge/FAPES-1A73E8?style=flat&logo=academia&logoColor=white" alt="FAPES"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+🗂️ <strong>Projetos em Destaque</strong>
 
 <table>
   <tr>
