@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Meu nome é <strong>Israel Magalhães do Carmo</strong> e sou <strong>Desenvolvedor</strong> com foco em tecnologia e inovação no setor público.
-  Atuo no desenvolvimento de sites, automações com n8n e sistemas internos — transformando processos políticos em soluções digitais eficientes.
+  Olá! Meu nome é <strong>Israel Magalhães do Carmo</strong> e sou <strong>Desenvolvedor</strong> com foco em tecnologia e inovação.
+   Atuo no desenvolvimento de sites, automações com n8n e sistemas internos — transformando processos políticos em soluções digitais eficientes.
   Também sou pesquisador e tenho trabalho na área de Inteligência Artificial e Machine Learning, cursando Bacharelado em Sistemas de Informação no Instituto Federal do Espírito Santo - Campus Serra.
 </p>
 
@@ -16,6 +16,13 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+<p align="left">
+  🌐 <strong>Web & Backend</strong><br/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap 5"/>
 </p>
 
 <p align="left">
@@ -39,14 +46,18 @@
   <img src="https://img.shields.io/badge/DeepSeek-4A90D9?style=flat&logo=deepseek&logoColor=white" alt="DeepSeek"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white" alt="MediaPipe"/>
 </p>
 
 <p align="left">
-  🌐 <strong>Web & Backend</strong><br/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  📊 <strong>Análise de Dados</strong><br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=black" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda"/>
 </p>
 
 <p align="left">
@@ -54,6 +65,15 @@
   <img src="https://img.shields.io/badge/Google%20Calendar-4285F4?style=flat&logo=google-calendar&logoColor=white" alt="Google Calendar"/>
   <img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Graph"/>
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+</p>
+
+<p align="left">
+  🖥️ <strong>Sistemas Operacionais</strong><br/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=red-hat&logoColor=white" alt="Red Hat"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
 </p>
 
 ---
@@ -79,9 +99,6 @@
       </p>
     </td>
   </tr>
-  <tr>
-    
-  </tr>
 </table>
 
 ---
@@ -93,6 +110,9 @@
 <p align="left">
   <a href="mailto:israelmcarmo@hotmail.com" title="Outlook">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+  </a>
+  <a href="mailto:israelmcarmo@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/israel-magalhaes/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
