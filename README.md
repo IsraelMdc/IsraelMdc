@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Meu nome é <strong>Israel Magalhães do Carmo</strong> e sou Desenvolvedor com foco em tecnologia e inovação no setor público.
+  Olá! Meu nome é <strong>Israel Magalhães do Carmo</strong> e sou <strong>Desenvolvedor<strong> com foco em tecnologia e inovação no setor público.
   Atuo no desenvolvimento de sites, automações com n8n e sistemas internos — transformando processos políticos em soluções digitais eficientes.
-  Também sou pesquisador na área de Inteligência Artificial e Machine Learning, cursando Bacharelado em Sistemas de Informação no Instituto Federal do Espírito Santo - Campus Serra.
+  Também sou pesquisador e tenho trabalho na área de Inteligência Artificial e Machine Learning, cursando Bacharelado em Sistemas de Informação no Instituto Federal do Espírito Santo - Campus Serra.
 </p>
 
 ---
