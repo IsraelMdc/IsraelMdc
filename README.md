@@ -86,7 +86,7 @@
   <tr>
     <td valign="top">
       <p>
-        🥇 <strong>Prêmio — Feira Científica IFES (2025)</strong><br/>
+        🥇 <strong>Prêmio — Feira Científica IFES (FECINC 2024)</strong><br/>
         Projeto de pesquisa aplicada desenvolvido no <strong>NERA e LAICSI (IFES - Campus Serra)</strong>, com financiamento da <strong>FAPES</strong>, que resultou em um sistema de escrita no ar utilizando <strong>redes neurais e visão computacional</strong> — sem sensores especializados, apenas câmeras comuns.
         A tecnologia reconhece gestos em tempo real e os converte em comandos no computador, com aplicação em acessibilidade para pessoas com limitações motoras e auxílio a educadores em sala de aula.
         <br/><br/>
